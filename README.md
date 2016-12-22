@@ -742,6 +742,17 @@ A collection of awesome things regarding React ecosystem.
 * [Simple Counter App with React and Nuclear JS](https://github.com/haochuan/random-notes/blob/master/react/couter-app-with-react-nuclear.md)
 * [LearnCode.academy Flux Tutorial Series](https://www.youtube.com/watch?v=PvjNglsyOHs&list=PLoYCgNOIyGABj2GQSlDRjgvXtqfDxKm5b&index=9)
 
+---
+### Immutable.js
+> Immutable.js provides many Persistent Immutable data structures including: `List`, `Stack`, `Map`, `OrderedMap`, `Set`, `OrderedSet` and `Record`.
+
+#### Resources 
+* [Immutable.js Docs](https://facebook.github.io/immutable-js/)
+* [Introduction to immutability](https://auth0.com/blog/intro-to-immutable-js/)
+* [Immutable.js Tutorial](http://thomastuts.com/blog/immutable-js-101-maps-lists.html)
+* [Practical Guide](https://www.triplet.fi/blog/immutable-js-practical-guide/)
+* [Sitepoint Article](https://www.sitepoint.com/immutability-javascript/)
+* [Video Tutorials](https://egghead.io/courses/learn-how-to-use-immutable-js)
 
 ---
 ### Redux
